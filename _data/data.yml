@@ -7,110 +7,77 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Adriana Guadalupe Gómez Hinojosa # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: adriana.gohi13@gmail.com
+  phone: 3123100157
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Adriana Guadalupe Gómez Hinojosa
+  github: adrianagh13
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  twitter: '@adrigh13'
+  stack-overflow: 17629258/adrianagh13
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
+    - item: Confidence
+      link: # dejar en blanco
+
+    - item: Open-mindedness
+      link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+
     - item: Communication
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Time-management
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Empathy
+      link: # dejar en blanco
+    
+    - item: Collaboration
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a Systems Engineering student who is eager about learning and reaching not adquired levels beyond the expected through my dedication and knowledge. I am always in disposition for comunnicating and working in teams, adding up, I consider myself empathic, because I truly understand people's needs and feelings. Also, I´ve always been a perseverant person, I know that all great results take time and most importantly, patience. I am very keen on solving problems with efficient solutions, due to that I am passionate about Technology.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
+  - degree: Systems Engineer
+    university: Tecnológico Nacional de México Campus Colima
     time: 2020 Oct - current
-    details: |
+    details: | 
+    I am looking forward to specialize on Business Analytics.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+experience:
+  - role: Junior React Native Mobile Developer
+    time: 2021 Nov - current
+    company: Bright Coders
+    details: | 
+    I am participating on this bootcamp looking forward to learn mobile development with React Native.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +89,21 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: Javascript
+      level: Competent
 
-    - name: PyTorch
-      level: 40%
+    - name: React
+      level: Competent
 
-    - name: Tensorflow
-      level: 60%
+    - name: Java
+      level: Proficient
 
-    - name: Caffe
-      level: 80%
+    - name: SQL
+      level: Advanced beginner
 
-    - name: Matlab
-      level: 100%
+    - name: React-Native
+      level: Novice
 
-    - name: C/C++
-      level: 40%
 
 # NO MODIFICAR
 footer: >
