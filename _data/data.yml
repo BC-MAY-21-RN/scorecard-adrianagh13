@@ -58,8 +58,8 @@ sidebar:
 
 # Registra aquí un resumen de tu perfil
 career-profile:
-  title: About Me # NO MODIFICAR
-  summary: |
+  - title: About Me # NO MODIFICAR
+    summary: |
     I am a Systems Engineering student who is eager about learning and reaching not adquired levels beyond the expected through my dedication and knowledge. I am always in disposition for comunnicating and working in teams, adding up, I consider myself empathic, because I truly understand people's needs and feelings. Also, I´ve always been a perseverant person, I know that all great results take time and most importantly, patience. I am very keen on solving problems with efficient solutions, due to that I am passionate about Technology.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
